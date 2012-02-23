@@ -2,6 +2,7 @@
     "name": "backbone-adapter",
     "version": "0.0.1",
     "description": "CouchDB storage for backbone models",
+    "categories": ["frameworks"],
     "modules": [
         "backbone-adapter.js"
     ],
