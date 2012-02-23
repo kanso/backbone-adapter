@@ -1,0 +1,14 @@
+{
+    "name": "backbone-adapter",
+    "version": "0.0.1",
+    "description": "CouchDB storage for backbone models",
+    "modules": [
+        "backbone-adapter.js"
+    ],
+    "dependencies": {
+        "modules": null,
+        "backbone": null,
+        "underscore": null,
+        "db": null
+    }
+}
